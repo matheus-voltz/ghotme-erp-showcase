@@ -8,7 +8,20 @@
 
 ## Screenshots
 
-> _TODO: replace with real screenshots / demo GIF of the web dashboard and mobile app._
+**Web dashboard (dark mode)**
+![Web dashboard](docs/screenshots/web-dashboard-dark.png)
+
+**Onboarding / signup**
+![Signup](docs/screenshots/web-signup.jpg)
+
+**Real-time support chat**
+![Support chat](docs/screenshots/web-support-chat.jpg)
+
+| Mobile dashboard | Mobile service order detail |
+|---|---|
+| ![Mobile dashboard](docs/screenshots/mobile-dashboard.jpg) | ![Mobile service order](docs/screenshots/mobile-service-order.jpg) |
+
+_All data shown is seeded/demo data, not real customer information._
 
 ## The problem it solves
 
